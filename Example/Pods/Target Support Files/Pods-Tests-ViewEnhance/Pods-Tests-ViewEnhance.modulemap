@@ -1,0 +1,6 @@
+framework module ViewEnhance {
+  umbrella header "Pods-Tests-ViewEnhance-umbrella.h"
+
+  export *
+  module * { export * }
+}

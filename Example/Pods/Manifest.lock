@@ -1,0 +1,20 @@
+PODS:
+  - FBSnapshotTestCase (1.8.1)
+  - Kiwi (2.3.1)
+  - ViewEnhance (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - Kiwi
+  - ViewEnhance (from `../`)
+
+EXTERNAL SOURCES:
+  ViewEnhance:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 3dc3899168747a0319c5278f5b3445c13a6532dd
+  Kiwi: f038a6c61f7a9e4d7766bff5717aa3b3fdb75f55
+  ViewEnhance: 2fb0fb408cfa8a911d908da56f7f1f53c8482de5
+
+COCOAPODS: 0.36.0

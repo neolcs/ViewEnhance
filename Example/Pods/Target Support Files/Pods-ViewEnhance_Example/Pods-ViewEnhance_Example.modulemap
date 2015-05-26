@@ -1,0 +1,6 @@
+framework module Pods_ViewEnhance_Example {
+  umbrella header "Pods-ViewEnhance_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
